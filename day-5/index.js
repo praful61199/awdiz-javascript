@@ -59,7 +59,7 @@
 
 
 
-var i = 2
-console.log(i++)
-console.log(i++)
-console.log(i+=5)
+// var i = 2
+// console.log(i++)
+// console.log(i++)
+// console.log(i+=5)
