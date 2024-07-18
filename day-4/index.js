@@ -47,14 +47,7 @@
 
 // Print numbers from 50 -150, 50, 60, 70, 80, ... 150
 
-// for(k=50; k<=150 ; k+=10){
-//     console.log(k)
+for(k=50; k<=150 ; k+=10){
+    console.log(k)
     
-// }
-
-for(let i=1 ; i<=5 ; i++){
-
-    for(let j=1;j<=i ;j++){
-        console.log("*")
-    }
 }
